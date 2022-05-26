@@ -1,0 +1,10 @@
+{
+    "app_name": "strofe.ro",
+    "app_slogan": "Împărtășește înteleciune 🧠",
+    "app_description": "Quick Boilerplate built on top of Nuxt 3 and Tailwind CSS",
+    "menu_home": "Home",
+    "menu_store": "Store",
+    "menu_blog": "Blog",
+    "menu_dashboard": "Dashboard"
+  }
+  

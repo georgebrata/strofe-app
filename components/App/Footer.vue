@@ -26,15 +26,15 @@ const isHome = computed(() => route.path === "/");
         {{ $t("app_name") }}
       </NuxtLink>
       <div class="text-sm">
-        {{ $t("app_name") }} by
+        <!-- {{ $t("app_name") }} by
         <a
-          href="https://github.com/gravitano"
+          href="https://georgebrata.ro"
           class="font-semibold"
           :class="isHome ? 'text-white' : 'text-gray-800'"
         >
-          Warsono
-        </a>
-        . All rights reserved
+          George Brata
+        </a>. --> 
+        {{ $t("app_slogan") }}
       </div>
     </div>
   </footer>

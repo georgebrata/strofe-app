@@ -23,4 +23,11 @@ const isFullWidth = computed(() => route.name === "index" || route.meta.fullWidt
   </div>
 </template>
 
-<style scoped></style>
+<style>
+body, section {
+  @apply dark:bg-gray-900 dark:text-gray-50;
+}
+header {
+    @apply dark:bg-slate-900 dark:text-gray-50;
+}
+</style>

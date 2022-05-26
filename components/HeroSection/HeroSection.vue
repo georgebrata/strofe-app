@@ -25,7 +25,7 @@ defineProps<{
         <h1 class="text-4xl sm:text-6xl font-bold xl:leading-[4rem] text-skin-base">
           {{ title }}
         </h1>
-        <p class="text-xl mt-4 mb-14 text-skin-muted">
+        <p class="text-xl mt-4 mb-14">
           {{ description }}
         </p>
         <div v-if="buttons" class="space-x-4">

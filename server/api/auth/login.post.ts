@@ -1,6 +1,6 @@
 export default defineEventHandler(async (event) => {
   const body = await useBody(event);
-  if (body.email === 'admin@example.com' && body.password === 'secret') {
+  if (body.email === 'aa@aa.aa' && body.password === 'aa') {
     return {
       data: {
         user: {

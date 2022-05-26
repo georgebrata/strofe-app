@@ -1,4 +1,4 @@
-# Nuxt 3 Tailwind Kit
+# strofe.ro
 
 > 🚧 Work in progress
 
